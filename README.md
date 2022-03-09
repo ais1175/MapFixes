@@ -6,12 +6,12 @@ A compilation of wall and stunt jump fixes for FiveM by community member, [LUKY0
 
 | | | |
 |-|-|-|
-| <img src="Wall Fixes/Screenshots/a.jpg" width="250"> | <img src="Wall Fixes/Screenshots/b.jpg" width="250"> | <img src="Wall Fixes/Screenshots/c.jpg" width="250"> |
-| <img src="Wall Fixes/Screenshots/d.jpg" width="250"> | <img src="Wall Fixes/Screenshots/e.jpg" width="250"> | <img src="Wall Fixes/Screenshots/f.jpg" width="250"> |
-| <img src="Wall Fixes/Screenshots/g.jpg" width="250"> | <img src="Wall Fixes/Screenshots/h.jpg" width="250"> | <img src="Wall Fixes/Screenshots/i.jpg" width="250"> |
-| <img src="Wall Fixes/Screenshots/j.jpg" width="250"> | <img src="Wall Fixes/Screenshots/k.jpg" width="250"> | <img src="Wall Fixes/Screenshots/l.jpg" width="250"> |
-| <img src="Wall Fixes/Screenshots/m.jpg" width="250"> | <img src="Wall Fixes/Screenshots/n.jpg" width="250"> | <img src="Wall Fixes/Screenshots/o.jpg" width="250"> |
-| <img src="Wall Fixes/Screenshots/p.jpg" width="250"> | <img src="Wall Fixes/Screenshots/q.jpg" width="250"> | <img src="Wall Fixes/Screenshots/r.jpg" width="250"> |
+| <img src="Screenshots/a.jpg" width="250"> | <img src="Screenshots/b.jpg" width="250"> | <img src="Screenshots/c.jpg" width="250"> |
+| <img src="Screenshots/d.jpg" width="250"> | <img src="Wall Fixes/Screenshots/e.jpg" width="250"> | <img src="Wall Fixes/Screenshots/f.jpg" width="250"> |
+| <img src="Screenshots/g.jpg" width="250"> | <img src="Screenshots/h.jpg" width="250"> | <img src="Screenshots/i.jpg" width="250"> |
+| <img src="Screenshots/j.jpg" width="250"> | <img src="Wall Fixes/Screenshots/k.jpg" width="250"> | <img src="Wall Fixes/Screenshots/l.jpg" width="250"> |
+| <img src="Screenshots/m.jpg" width="250"> | <img src="Screenshots/n.jpg" width="250"> | <img src="Screenshots/o.jpg" width="250"> |
+| <img src="Screenshots/p.jpg" width="250"> | <img src="Screenshots/q.jpg" width="250"> | <img src="Screenshots/r.jpg" width="250"> |
 
 
 ---------------------------------------
