@@ -1,6 +1,6 @@
 # WallFixes
 
-A compilation of wall fixes for FiveM by community member, [LUKY00010](https://forum.cfx.re/u/luky00010/), made into one resource with slight modifications and additions by [TayMcKenzieNZ](https://github.com/taymckenzienz)
+A compilation of wall and stunt jump fixes for FiveM by community member, [LUKY00010](https://forum.cfx.re/u/luky00010/), made into one resource with slight modifications and additions by [TayMcKenzieNZ](https://github.com/taymckenzienz)
 
 # Screenshots
 
