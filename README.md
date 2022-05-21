@@ -11,7 +11,7 @@ A compilation of wall and stunt jump fixes for FiveM by community member, [LUKY0
 | <img src="Screenshots/g.jpg" width="250"> | <img src="Screenshots/h.jpg" width="250"> | <img src="Screenshots/i.jpg" width="250"> |
 | <img src="Screenshots/k.jpg" width="250"> | <img src="Screenshots/l.jpg" width="250"> | <img src="Screenshots/m.jpg" width="250"> |
 | <img src="Screenshots/n.jpg" width="250"> | <img src="Screenshots/o.jpg" width="250"> | <img src="Screenshots/q.jpg" width="250"> |
-| <img src="Screenshots/r.jpg" width="250"> |
+| <img src="Screenshots/r.jpg" width="250"> | <img src="Screenshots/s.jpg" width="250"> | <img src="Screenshots/t.jpg" width="250"> |
 
 
 ---------------------------------------
@@ -28,8 +28,10 @@ A compilation of wall and stunt jump fixes for FiveM by community member, [LUKY0
 
 Run this resource along with [server scenarios](https://github.com/TayMcKenzieNZ/server_scenarios) to remove the construction workers at the [Job Center](https://github.com/TayMcKenzieNZ/WallFixes/blob/main/Wall%20Fixes/Screenshots/c.jpg)
 
-_**Video Preview:**_
+_**Video Previews:**_
 
 [![Video Preview](https://img.youtube.com/vi/aR7FJ6mFj8U/0.jpg)](https://www.youtube.com/watch?v=aR7FJ6mFj8U)
 
-[![Bridge Video Preview](https://www.youtube.com/watch?v=Myin8mm9SCY)
+**Bridge Preview:**
+
+[![Bridge Video Preview](https://img.youtube.com/vi/Myin8mm9SCY/0.jpg)](https://www.youtube.com/watch?v=Myin8mm9SCY)
