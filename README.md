@@ -1,4 +1,4 @@
-# WallFixes
+# MapFixes
 
 A compilation of wall and stunt jump fixes for FiveM by community member, [LUKY00010](https://forum.cfx.re/u/luky00010/), made into one resource with slight modifications and additions by [TayMcKenzieNZ](https://github.com/taymckenzienz)
 
@@ -18,9 +18,11 @@ A compilation of wall and stunt jump fixes for FiveM by community member, [LUKY0
 
 # Installing
 
-1. Add to your resources folder.
+1. Download
 
-2. Rename to `WallFixes` and add `start WallFixes` to your server.cfg
+2. Open Zip folder and drag MapFixes folder to your server resources folder
+
+3. Add `start MapFixes` to your server.cfg
 
 ---------------------------------------
 
