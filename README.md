@@ -31,3 +31,5 @@ Run this resource along with [server scenarios](https://github.com/TayMcKenzieNZ
 _**Video Preview:**_
 
 [![Video Preview](https://img.youtube.com/vi/aR7FJ6mFj8U/0.jpg)](https://www.youtube.com/watch?v=aR7FJ6mFj8U)
+
+[![Bridge Video Preview](https://www.youtube.com/watch?v=Myin8mm9SCY)
