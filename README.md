@@ -39,3 +39,18 @@ _**Video Previews:**_
 **Bridge Preview:**
 
 [![Bridge Video Preview](https://img.youtube.com/vi/Myin8mm9SCY/0.jpg)](https://www.youtube.com/watch?v=Myin8mm9SCY)
+
+
+# Optional
+
+
+Before:
+
+[![Tunnel Fix](https://forum.cfx.re/uploads/default/original/4X/a/0/4/a040cf531268c2f1470323932a5a3f82e3dbd1a3.jpeg)
+
+After: 
+
+[![Tunnel Fix](https://forum.cfx.re/uploads/default/original/4X/9/3/8/9388a92547e3b7dcc9f20ec82eb4bec66301a9d3.jpeg)
+
+
+[Tunnel Fix](https://forum.cfx.re/t/free-entrance-to-the-tunnel-fix/4879909)
