@@ -2,7 +2,14 @@
 
 A compilation of wall and stunt jump fixes for FiveM by community member, [LUKY00010](https://forum.cfx.re/u/luky00010/), made into one resource with slight modifications and additions by [TayMcKenzieNZ](https://github.com/taymckenzienz)
 
-# Screenshots
+<p align="center">
+  <a href="https://github.com/TayMcKenzieNZ/MapFixes"><img src="https://img.shields.io/badge/license-GPL--3.0-blue.svg" alt="License"></a>
+  <a href="https://github.com/TayMcKenzieNZ/MapFixes"><img src="https://img.shields.io/github/stars/TayMcKenzieNZ/MapFixes.svg?style=social" alt="Star"></a>
+  <a href="https://github.com/TayMcKenzieNZ/MapFixes"><img src="https://img.shields.io/github/forks/TayMcKenzieNZ/MapFixes.svg?style=social&label=Forks" alt="Forks"></a>
+</p>
+
+
+# Screenshots 📸
 
 | | | |
 |-|-|-|
