@@ -20,7 +20,8 @@ A compilation of wall and stunt jump fixes for FiveM by community member, [LUKY0
 | <img src="Screenshots/013.jpg" width="250"> | <img src="Screenshots/014.jpg" width="250"> | <img src="Screenshots/015.jpg" width="250"> |
 | <img src="Screenshots/016.jpg" width="250"> | <img src="Screenshots/017.jpg" width="250"> | <img src="Screenshots/018.jpg" width="250"> |
 | <img src="Screenshots/019.jpg" width="250"> | <img src="Screenshots/020.jpg" width="250"> | <img src="Screenshots/021.jpg" width="250"> |
-| <img src="Screenshots/022.jpg" width="250"> |
+| <img src="Screenshots/022.jpg" width="250"> | <img src="Screenshots/023.png" width="250"> | <img src="Screenshots/024.png" width="250"> |
+| <img src="Screenshots/025.png" width="250"> |  | <img src="Screenshots/026.png" width="250"> |
 
 
 ---------------------------------------
@@ -53,11 +54,11 @@ _**Video Previews:**_
 
 Before:
 
-[![Tunnel Fix](https://forum.cfx.re/uploads/default/original/4X/a/0/4/a040cf531268c2f1470323932a5a3f82e3dbd1a3.jpeg)
+![Tunnel Fix](https://forum.cfx.re/uploads/default/original/4X/a/0/4/a040cf531268c2f1470323932a5a3f82e3dbd1a3.jpeg)
 
 After: 
 
-[![Tunnel Fix](https://forum.cfx.re/uploads/default/original/4X/9/3/8/9388a92547e3b7dcc9f20ec82eb4bec66301a9d3.jpeg)
+![Tunnel Fix](https://forum.cfx.re/uploads/default/original/4X/9/3/8/9388a92547e3b7dcc9f20ec82eb4bec66301a9d3.jpeg)
 
 
 [Tunnel Fix](https://forum.cfx.re/t/free-entrance-to-the-tunnel-fix/4879909)
